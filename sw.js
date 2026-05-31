@@ -1,12 +1,12 @@
-const CACHE_NAME = 'nipulator-v1';
+const CACHE_NAME = 'niculator-v1';
 
 // All files to cache for offline use
 const ASSETS = [
-  '/NIPUlator/',
-  '/NIPUlator/index.html',
-  '/NIPUlator/manifest.json',
-  '/NIPUlator/icon-192.png',
-  '/NIPUlator/icon-512.png'
+  '/NICUlator/',
+  '/NICUlator/index.html',
+  '/NICUlator/manifest.json',
+  '/NICUlator/icon-192.png',
+  '/NICUlator/icon-512.png'
 ];
 
 // Install: cache everything
