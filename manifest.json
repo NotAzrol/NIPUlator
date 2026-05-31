@@ -1,6 +1,6 @@
 {
   "name": "ELHT Neonatal Infusion Calculator",
-  "short_name": "NIPUlator",
+  "short_name": "NICUlator",
   "description": "ELHT Neonatal Standard Infusion Calculator",
   "start_url": "/NICUlator/",
   "scope": "/NICUlator/",
